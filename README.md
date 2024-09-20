@@ -24,6 +24,10 @@ Rodadas de Jogos é uma aplicação web que permite visualizar as partidas de di
 2. Abra o arquivo `index.html` em um navegador de sua escolha.
 3. A aplicação fará uma requisição à API para buscar os dados das rodadas e exibi-los na tela.
 
+## Acesse a aplicação em produção
+
+1. Para acessar a aplicação em produção clique em [https://samuel-sabinodasilva1303.github.io/round-games/](https://samuel-sabinodasilva1303.github.io/round-games/)
+
 ## API Utilizada
 
 A aplicação utiliza a seguinte API para buscar os dados:
