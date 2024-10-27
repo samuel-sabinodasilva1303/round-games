@@ -42,8 +42,5 @@ Se você deseja contribuir para o projeto, fique à vontade para abrir issues ou
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
-## Autores
-
-- [Seu Nome](https://github.com/seu-usuario) - Desenvolvimento e Design
 
 
